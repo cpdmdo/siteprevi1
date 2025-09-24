@@ -1,9 +1,4 @@
 {
-  "dependencies": {
-    "pg": "^8.16.3"
-  }
-}
-{
   "name": "meu-painel-mirassol",
   "private": true,
   "version": "0.1.0",
@@ -20,7 +15,7 @@
     "@strapi/plugin-users-permissions": "4.15.5",
     "@strapi/plugin-i18n": "4.15.5",
     "better-sqlite3": "8.6.0",
-    "pg": "^8.11.3"
+    "pg": "^8.16.3"
   },
   "author": {
     "name": "A Strapi developer"
@@ -28,7 +23,7 @@
   "strapi": {
     "uuid": "..."
   },
-"engines": {
+  "engines": {
     "node": ">=18.0.0 <=20.x.x",
     "npm": ">=6.0.0"
   },
